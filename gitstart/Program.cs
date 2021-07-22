@@ -10,7 +10,7 @@ namespace gitstart
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет прогеррр");
+            Console.WriteLine("Привет прогер");
         }
     }
 }

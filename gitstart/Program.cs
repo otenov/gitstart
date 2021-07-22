@@ -14,6 +14,8 @@ namespace gitstart
 
 
             Console.WriteLine("Фича, исправление");
+
+            Console.WriteLine("Изменения в гит");
         }
     }
 }

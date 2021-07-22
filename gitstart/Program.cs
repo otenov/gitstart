@@ -11,6 +11,9 @@ namespace gitstart
         static void Main(string[] args)
         {
             Console.WriteLine("Привет прогер");
+
+
+            Console.WriteLine("Фича");
         }
     }
 }

@@ -13,7 +13,7 @@ namespace gitstart
             Console.WriteLine("Привет прогер");
 
 
-            Console.WriteLine("Фича");
+            Console.WriteLine("Фича, исправление");
         }
     }
 }
